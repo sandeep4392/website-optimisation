@@ -32,9 +32,9 @@ This project is about improving the performance of loading and rendering an exis
 
 ## Optimizations to index.html
 
-1.Inlined the styles.css to avoid render blocking.
-2.minified the css and javascript files using grunt.
-3.optimized the images to reduce the page load time.
-4.used `aync` for javascript to avoid render blocking.
-5.minified the html file using grunt to improve page score.
+1. Inlined the styles.css to avoid render blocking.
+2. minified the css and javascript files using grunt.
+3. optimized the images to reduce the page load time.
+4. used `aync` for javascript to avoid render blocking.
+5. minified the html file using grunt to improve page score.
 
